@@ -1,7 +1,7 @@
 # eba_xml_volume_001
 The TEI XML encoding for volume 1 of the Emma B. Andrews diary.
 
-this is a test, and another test
+this is a test, and another test, and the third test.
 
 Short Summary:
 
